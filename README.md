@@ -78,3 +78,12 @@ Number of columns: 15
 1. Confusion Matrix
 2. Performance Matrix for Precision and Accuracy 
 3. ROC and AUC
+
+# Packages used
+
+1. Numpy
+2. Pandas
+3. Statistics
+4. Matplotlib
+5. Seaborn
+6. Sklearn
