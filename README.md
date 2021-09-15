@@ -48,12 +48,33 @@ Number of columns: 15
 
 15. salary -	Salary offered by corporate to the placed candidates 
 
-## Models Used For Classifition
+## Exploratory Data Analysis
+
+1. Does boards of Class 10 and 12 matter?
+2. Does work experience matter while getting placed?
+3. Is there any gender bias in the process of placements?
+4. Does percentage matter for one to get placed?
+
+## Data Preprocessing
+
+1. Dealing with missing values
+2. Finding outliers
+3. Label Encoding(on binary categorical features)
+4. One-hot Encoding(on more than two categorical features)
+5. Dropping Unnecessary Columns
+6. SMOTE resampling
+
+## Models Used For Classification
 
 1. Logistic Regression
 2. Decision Tree Classifier
 3. Random Forest Classifier
 4. Naive Bayes Classifier
 5. Support Vector Machine
-6. K Nearest Neighbors
+6. K-Nearest Neighbors
 
+## Evaluation Metrics
+
+1. Confusion Matrix
+2. Performance Matrix for Precision and Accuracy 
+3. ROC and AUC
