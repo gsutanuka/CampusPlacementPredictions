@@ -6,7 +6,8 @@ In this project, we consider a placement dataset and try to predict whether a ca
 
 ## Problem Statement
 
-To build ML models that will correctly classify whether a student is placed or not, compare them and find the best model for the classification.
+1. To do a detailed Exploratory Data Analysis on the data and find out factors that affect and do nor affect in the process of placements.
+2. To build ML models that will correctly classify whether a student is placed or not, compare them and find the best model for the classification.
 
 ## Data Description
 
@@ -47,5 +48,12 @@ Number of columns: 15
 
 15. salary -	Salary offered by corporate to the placed candidates 
 
+## Models Used For Classifition
 
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. Naive Bayes Classifier
+5. Support Vector Machine
+6. K Nearest Neighbors
 
